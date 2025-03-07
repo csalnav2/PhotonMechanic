@@ -15,7 +15,7 @@ This application provides a comprehensive profiling tool for large language mode
 ✅ Quantization Options: Choose between FP32, FP16, and INT8 for model execution.
 ✅ Custom Time Complexity Trends: Supports logarithmic, linear, parabolic (O(n²)), etc.
 ✅ Reinforcement Learning Support: Includes Meta, Chain-of-Thought, Monte Carlo Tree Search (MCTS), and DQN.
-✅ GPU Selection: Compare performance across T4, A100, B100, and other GPUs.
+✅ GPU Selection: Compare performance across T4, A100, V100, and other GPUs.
 ✅ Graph-Based Analysis:
 
 Hypergraph Generation: Template-level model execution flow.
