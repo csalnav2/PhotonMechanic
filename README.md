@@ -4,7 +4,7 @@ This project is licensed under Apache 2.0, meaning you are free to use it, but y
 Copyright (c) 2025 [Christopher Salnave]
 
 LLM Computational Graph Profiler & Memory Analyzer
-Author: [Your Name or GitHub Username]
+Author: [PhotonMechanic]
 License: Apache 2.0
 
 🔍 Overview
@@ -14,7 +14,7 @@ This application provides a comprehensive profiling tool for large language mode
 ✅ Model Selection: Supports Hugging Face models like GPT-2, DistilBERT, and BERT-BASE.
 ✅ Quantization Options: Choose between FP32, FP16, and INT8 for model execution.
 ✅ Custom Time Complexity Trends: Supports logarithmic, linear, parabolic (O(n²)), etc.
-✅ Reinforcement Learning Support: Includes Meta, Chain-of-Thought, Monte Carlo Tree Search (MCTS), and DQN.
+✅ Reinforcement Learning Support: Includes Meta-Chain of Thought, Chain-of-Thought, Monte Carlo Tree Search (MCTS), and DQN.
 ✅ GPU Selection: Compare performance across T4, A100, V100, and other GPUs.
 ✅ Graph-Based Analysis:
 
